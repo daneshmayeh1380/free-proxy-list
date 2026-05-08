@@ -62,7 +62,7 @@ Proxifly sorts the proxies by protocol and country, but you can also just get th
 
 🛑 Please follow the [GitHub Acceptable Use Policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies) when using this project. You should use these proxies responsibly, without abusing them, and without intent to commit illegal activity.
 
-### 👑 Download from our website: [Free proxy list](https://proxifly.dev/tools/proxy-list)
+### 👑 Download from  our website: [Free proxy list](https://proxifly.dev/tools/proxy-list)
 [![View Free Proxy List](https://flat.badgen.net/badge/label/Download%20from%20Website?icon=chrome&color=4285F4&label=&labelColor=4285F4&scale=1.5)](https://proxifly.dev/tools/proxy-list)
 
 
