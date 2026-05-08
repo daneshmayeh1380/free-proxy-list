@@ -132,7 +132,7 @@ proxifly.getProxy({
 ```
 
 
-### 🔑 Fetch with cURL
+### 🔑 Fetch with cU RL
 Fetch the latest proxy list with the following command:
 
 
