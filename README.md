@@ -89,7 +89,7 @@ Click on your preferred file format to get the updated list
 #### Other sorted proxies
 * [🌎 Get proxies by country](https://github.com/proxifly/free-proxy-list/tree/main/proxies/countries)
 
-### 🙌 Use the Proxifly NPM module
+### 🙌 Use the Proxifly NPM modu le
 Easily fetch updated proxies in your application with the official **Proxifly NPM module**.
 
 ```shell
